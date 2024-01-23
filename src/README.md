@@ -21,11 +21,11 @@ Submission of form data to a mock API endpoint using Axios.
 
 ### 1.Clone the repository:
 
-### `git clone https://github.com/your-username/your-repo.git`
+### `git clone https://github.com/vijay184/zupple-lab-task-1.git`
 
 ### 2.Navigate to the project directory:
 
-### `cd your-repo`
+### `cd zupple-lab-task-1`
 
 ### 3.Install dependencies:
 
