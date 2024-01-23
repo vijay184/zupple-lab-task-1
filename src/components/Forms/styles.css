@@ -1,0 +1,203 @@
+.centered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.transparent-card {
+  background-color: rgba(16, 13, 37, 0.7); /* Black color with 70% opacity */
+  border-radius: 10px; /* Adjust border-radius as needed */
+  color: white; /* Text color */
+  margin: 50px; /* Add margin to all sides */
+  width: 80%;
+  align-items: center;
+}
+
+.heading {
+  font-size: 15px;
+  text-align: center;
+}
+
+.subheading {
+  font-size: 30px;
+  text-align: center;
+}
+
+.form_box {
+  display: flex;
+  flex-direction: row;
+}
+
+.Left_box {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  color: #9b9494;
+  margin-left: 10%;
+  margin-right: 3%;
+  height: 450px;
+}
+
+.Right_box {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  color: rgb(155, 148, 148);
+  margin-right: 10%;
+  height: 8%; /* Full height of the viewport */
+  width: 6%;
+}
+
+.right_bottom_box {
+  display: flex;
+  flex-direction: row;
+  color: rgb(155, 148, 148);
+}
+
+.password {
+  background-color: rgba(16, 13, 37, 0.7);
+  border-color: aliceblue;
+  color: aliceblue;
+  margin-bottom: 5%;
+  margin-top: 2%;
+  border-radius: 5px;
+  height: 60%; /* Full height of the viewport */
+  width: 80%;
+}
+
+.title_css {
+  background-color: rgba(16, 13, 37, 0.7);
+  margin-bottom: 5%;
+  margin-top: 2%;
+  color: aliceblue;
+  border-radius: 5px;
+  height: 60%; /* Full height of the viewport */
+  width: 80%;
+}
+
+.description_css {
+  background-color: rgba(16, 13, 37, 0.7);
+  margin-bottom: 5%;
+  margin-top: 2%;
+  color: aliceblue;
+  border-radius: 5px;
+  height: 260%; /* Full height of the viewport */
+  width: 80%;
+}
+
+.tag_css {
+  background-color: rgba(16, 13, 37, 0.7);
+  margin-bottom: 5%;
+  margin-top: 2%;
+  border-radius: 5px;
+  color: aliceblue;
+  padding: 2%;
+  height: 60%; /* Full height of the viewport */
+  width: 80%;
+}
+
+.date_css {
+  background-color: rgba(16, 13, 37, 0.7);
+  margin-bottom: 5%;
+  margin-top: 2%;
+  color: aliceblue;
+  border-radius: 5px;
+  padding: 2%;
+  height: 60%; /* Full height of the viewport */
+  width: 80%;
+}
+.software_css {
+  background-color: rgba(16, 13, 37, 0.7);
+  color: rgb(155, 148, 148);
+  margin-bottom: 5%;
+  margin-top: 2%;
+  padding: 3%;
+  border-radius: 5px;
+  height: 45%; /* Full height of the viewport */
+  width: 85%;
+}
+
+.submit-btn-color {
+  color: aliceblue;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-bottom: 10%;
+  padding: 2% 0;
+  background-color: rgb(220, 53, 139);
+  color: rgb(155, 148, 148);
+  height: 25px;
+  width: 40%;
+  border-radius: 5px;
+  border-color: rgb(216, 112, 164);
+}
+
+.button span {
+  font-size: medium;
+}
+
+.file-upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+}
+
+.Thumbnail-upload-file-btn {
+  flex: 1;
+  border: aliceblue;
+  margin-top: 20px;
+}
+
+.Thumbnail-upload-file-btn-color {
+  background-color: rgba(16, 13, 37, 0.7);
+  color: rgb(155, 148, 148);
+  flex: 1;
+  height: 50px;
+  width: 200px;
+}
+
+.file_uploadsource {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  margin-left: 40px;
+}
+
+input[type="file"] {
+  cursor: pointer;
+  padding: 5px 10px;
+  background-color: rgba(16, 13, 37, 0.7);
+  margin: 5%;
+  color: white;
+  border: 1%;
+  border-color: aliceblue;
+  width: 110%;
+  border-radius: 5px;
+}
+
+.thumbnail-value {
+  margin-right: 80px;
+}
+
+.sourcefile-value {
+  margin-right: 120px;
+}
+
+.upload-file-span-button-value {
+  display: flex;
+  flex-direction: column;
+  height: 120px;
+}
+
+.nofile-choosen-span {
+  flex: 1;
+  margin-top: 30px;
+}
