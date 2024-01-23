@@ -35,7 +35,7 @@ Submission of form data to a mock API endpoint using Axios.
 
 ### `npm start`               
 
-### 5.Open your browser and visit [http://localhost:3000](https://zupple-lab-task-1.vercel.app/) to view the application.
+### 5.Open your browser and visit https://zupple-lab-task-1.vercel.app/ to view the application.
 
 # Usage:
 
